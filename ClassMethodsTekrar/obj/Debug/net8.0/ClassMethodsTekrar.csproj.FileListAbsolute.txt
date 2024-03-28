@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\bin\Debug\net8.0\ClassMethodsTekrar.exe
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\bin\Debug\net8.0\ClassMethodsTekrar.deps.json
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\bin\Debug\net8.0\ClassMethodsTekrar.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\bin\Debug\net8.0\ClassMethodsTekrar.dll
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\bin\Debug\net8.0\ClassMethodsTekrar.pdb
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.dll
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\refint\ClassMethodsTekrar.dll
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.pdb
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ClassMethodsTekrar.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\ClassMethodsTekrar\obj\Debug\net8.0\ref\ClassMethodsTekrar.dll

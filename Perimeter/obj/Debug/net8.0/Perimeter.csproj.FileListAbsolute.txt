@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\Perimeter\bin\Debug\net8.0\Perimeter.exe
+C:\Users\Hp\Desktop\csharp_\Perimeter\bin\Debug\net8.0\Perimeter.deps.json
+C:\Users\Hp\Desktop\csharp_\Perimeter\bin\Debug\net8.0\Perimeter.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\Perimeter\bin\Debug\net8.0\Perimeter.dll
+C:\Users\Hp\Desktop\csharp_\Perimeter\bin\Debug\net8.0\Perimeter.pdb
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.dll
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\refint\Perimeter.dll
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.pdb
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\Perimeter.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\Perimeter\obj\Debug\net8.0\ref\Perimeter.dll
