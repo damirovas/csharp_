@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\AddBooks\bin\Debug\net8.0\AddBooks.exe
+C:\Users\Hp\Desktop\csharp_\AddBooks\bin\Debug\net8.0\AddBooks.deps.json
+C:\Users\Hp\Desktop\csharp_\AddBooks\bin\Debug\net8.0\AddBooks.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\AddBooks\bin\Debug\net8.0\AddBooks.dll
+C:\Users\Hp\Desktop\csharp_\AddBooks\bin\Debug\net8.0\AddBooks.pdb
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.dll
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\refint\AddBooks.dll
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.pdb
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\AddBooks.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\AddBooks\obj\Debug\net8.0\ref\AddBooks.dll

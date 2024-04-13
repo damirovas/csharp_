@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\polymorphyism\bin\Debug\net8.0\polymorphyism.exe
+C:\Users\Hp\Desktop\csharp_\polymorphyism\bin\Debug\net8.0\polymorphyism.deps.json
+C:\Users\Hp\Desktop\csharp_\polymorphyism\bin\Debug\net8.0\polymorphyism.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\polymorphyism\bin\Debug\net8.0\polymorphyism.dll
+C:\Users\Hp\Desktop\csharp_\polymorphyism\bin\Debug\net8.0\polymorphyism.pdb
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.dll
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\refint\polymorphyism.dll
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.pdb
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\polymorphyism.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\polymorphyism\obj\Debug\net8.0\ref\polymorphyism.dll

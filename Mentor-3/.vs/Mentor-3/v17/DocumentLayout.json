@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BDECD8-7BFB-4C41-B8E5-9D135BE07344}|Mentor-3.csproj|c:\\users\\hp\\desktop\\csharp_\\mentor-3\\medicineaspirine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BDECD8-7BFB-4C41-B8E5-9D135BE07344}|Mentor-3.csproj|solutionrelative:medicineaspirine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BDECD8-7BFB-4C41-B8E5-9D135BE07344}|Mentor-3.csproj|c:\\users\\hp\\desktop\\csharp_\\mentor-3\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BDECD8-7BFB-4C41-B8E5-9D135BE07344}|Mentor-3.csproj|solutionrelative:medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BDECD8-7BFB-4C41-B8E5-9D135BE07344}|Mentor-3.csproj|c:\\users\\hp\\desktop\\csharp_\\mentor-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BDECD8-7BFB-4C41-B8E5-9D135BE07344}|Mentor-3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineAspirine.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\MedicineAspirine.cs",
+              "RelativeDocumentMoniker": "MedicineAspirine.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\MedicineAspirine.cs*",
+              "RelativeToolTip": "MedicineAspirine.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:08:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\Medicine.cs",
+              "RelativeDocumentMoniker": "Medicine.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\Medicine.cs*",
+              "RelativeToolTip": "Medicine.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:51:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\csharp_\\Mentor-3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:49:58.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

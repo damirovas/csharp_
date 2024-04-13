@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\loopss\bin\Debug\net8.0\loopss.exe
+C:\Users\Hp\Desktop\csharp_\loopss\bin\Debug\net8.0\loopss.deps.json
+C:\Users\Hp\Desktop\csharp_\loopss\bin\Debug\net8.0\loopss.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\loopss\bin\Debug\net8.0\loopss.dll
+C:\Users\Hp\Desktop\csharp_\loopss\bin\Debug\net8.0\loopss.pdb
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.dll
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\refint\loopss.dll
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.pdb
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\loopss.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\loopss\obj\Debug\net8.0\ref\loopss.dll

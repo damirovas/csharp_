@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\PersonClases\bin\Debug\net8.0\PersonClases.exe
+C:\Users\Hp\Desktop\csharp_\PersonClases\bin\Debug\net8.0\PersonClases.deps.json
+C:\Users\Hp\Desktop\csharp_\PersonClases\bin\Debug\net8.0\PersonClases.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\PersonClases\bin\Debug\net8.0\PersonClases.dll
+C:\Users\Hp\Desktop\csharp_\PersonClases\bin\Debug\net8.0\PersonClases.pdb
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.dll
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\refint\PersonClases.dll
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.pdb
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\PersonClases.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\PersonClases\obj\Debug\net8.0\ref\PersonClases.dll
