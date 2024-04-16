@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\MedicineTask\bin\Debug\net8.0\MedicineTask.exe
+C:\Users\Hp\Desktop\csharp_\MedicineTask\bin\Debug\net8.0\MedicineTask.deps.json
+C:\Users\Hp\Desktop\csharp_\MedicineTask\bin\Debug\net8.0\MedicineTask.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\MedicineTask\bin\Debug\net8.0\MedicineTask.dll
+C:\Users\Hp\Desktop\csharp_\MedicineTask\bin\Debug\net8.0\MedicineTask.pdb
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.dll
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\refint\MedicineTask.dll
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.pdb
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\MedicineTask.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\MedicineTask\obj\Debug\net8.0\ref\MedicineTask.dll

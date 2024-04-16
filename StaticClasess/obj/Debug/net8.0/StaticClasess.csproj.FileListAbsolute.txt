@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\csharp_\StaticClasess\bin\Debug\net8.0\StaticClasess.exe
+C:\Users\Hp\Desktop\csharp_\StaticClasess\bin\Debug\net8.0\StaticClasess.deps.json
+C:\Users\Hp\Desktop\csharp_\StaticClasess\bin\Debug\net8.0\StaticClasess.runtimeconfig.json
+C:\Users\Hp\Desktop\csharp_\StaticClasess\bin\Debug\net8.0\StaticClasess.dll
+C:\Users\Hp\Desktop\csharp_\StaticClasess\bin\Debug\net8.0\StaticClasess.pdb
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.AssemblyInfo.cs
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.sourcelink.json
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.dll
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\refint\StaticClasess.dll
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.pdb
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\StaticClasess.genruntimeconfig.cache
+C:\Users\Hp\Desktop\csharp_\StaticClasess\obj\Debug\net8.0\ref\StaticClasess.dll
